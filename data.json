@@ -1,0 +1,10 @@
+{
+    "manga": [
+        {"title": "Zatch Bell!", "genre": "Adventure", "rating": 9.0},
+        {"title": "Eren the Southpaw", "genre": "Drama", "rating": 8.5},
+        {"title": "Dragon Ball", "genre": "Action", "rating": 9.0},
+        {"title": "Kaguya-sama: Love Is War", "genre": "Romance", "rating": 8.7},
+        {"title": "Death Note", "genre": "Thriller", "rating": 9.2},
+        {"title": "Assassination Classroom", "genre": "Action", "rating": 8.6}
+    ]
+}
